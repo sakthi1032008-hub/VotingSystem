@@ -1,0 +1,4 @@
+{
+  "name": "VotingSystem",
+  "postCreateCommand": "bash .devcontainer/setup.sh"
+}
